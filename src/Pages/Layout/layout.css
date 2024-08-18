@@ -1,0 +1,12 @@
+.home-heading-card{
+    background-color: #1D2228;
+    height:70px;
+}
+.home-input-element{
+    padding-left: 7px;
+    transition: all 1s;
+}
+.components-card{
+    background-color: #1a22384f;
+    min-height: 100vh;
+}

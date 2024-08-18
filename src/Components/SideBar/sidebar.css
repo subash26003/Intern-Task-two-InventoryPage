@@ -1,0 +1,20 @@
+.sideBar-title-card{
+    background-color: #1D2228;
+    color:#ffffff;
+    height:75px;
+}
+.sidebar-links-card{
+    background-color: #1a2238;
+}
+.sidebar-links{
+    list-style: none;
+    color:#ffffffff
+}
+.sideIcon{
+    transition: all .5s;
+}
+.sideIcon:hover{
+     color:black;
+     background-color: hsla(0, 0%, 100%, 0.804);
+     transform: scale(1.2);
+}

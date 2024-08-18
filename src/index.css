@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.button-element{
+    font-weight: bold;
+    border-radius: 9px;
+    padding: 5px 15px;
+    transition: all .5s;
+    outline: none;
+}
+.button-element:hover{
+    transform: scale(1.125);
+}
+.button-element:active {
+    outline: none;
+    transform: scale(.9);
+}

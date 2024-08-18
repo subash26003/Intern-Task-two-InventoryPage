@@ -1,0 +1,27 @@
+.checkout-page{
+    background-color:#1A2238;
+}
+.home-button{
+    background-color: #fff;
+    color:#1A2238
+}
+.table-container{
+    border:2px solid black
+}
+.table-container table{
+    border:0;
+    text-align: center;
+}
+th{
+    border:1px solid black;
+    padding: 7px 20px;
+    text-align:center;
+}
+.product-name-cell{
+    padding-left:30px;
+    padding-right:30px;
+}
+.bill-button{
+    background-color: #1A2238;
+    color: #fff;
+}

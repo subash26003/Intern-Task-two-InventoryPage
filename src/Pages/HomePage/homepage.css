@@ -1,0 +1,8 @@
+.product-name{
+    display: block;
+    border: 2px solid black;
+}
+.refresh-button{
+    background-color: #1A2238;
+    color: #fff;
+}

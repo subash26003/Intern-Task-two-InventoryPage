@@ -1,0 +1,10 @@
+.input-element{
+    outline-style: none;
+}
+.lable-element{
+    font-weight: 500;
+}
+.add-btn{
+    background-color: #1A2238 ;
+    color: #fff;
+}
